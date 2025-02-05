@@ -1,0 +1,17 @@
+1. First create a git repo on GitHub
+
+2. Clone the GitHub repo:
+
+ git clone "link" (Cmd)
+
+3. Open cmd in that folder/repo
+
+4. Make some changes to file (Add new files, delete files.................)
+
+5. git add .  (It will store all the file in the staging area)
+
+6. git commit -m "Message"
+
+7. git push
+
+8. git pull (Update your local repo)
